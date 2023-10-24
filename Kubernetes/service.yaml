@@ -4,7 +4,6 @@ metadata:
   name: netflix-app
   labels:
     app: netflix-app
-  namespace: preprod
 spec:
   type: LoadBalancer
   ports:
